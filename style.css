@@ -93,6 +93,10 @@ border border-radius:4px ;
 margin: 20px 0px;
 text-align: center;
 
+}.
+
+img-circle {
+	border-radius: 400%;
 }
 .btn-blue {
 	background-color:black;
